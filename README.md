@@ -10,7 +10,7 @@ This is the official website of **Elahe Barati**, a professional female fitness 
 
 - [Next.js](https://nextjs.org/) – React Framework for production-ready apps
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
-- [TypeScript] 
+- [TypeScript](https://www.npmjs.com/package/typescript) – JavaScript With Syntax For Types
 
 ## 📁 Project Structure (App Router)
 
